@@ -1,0 +1,73 @@
+{
+    "pokemon_trouve": [
+        {
+            "nom":  {
+                "jp": "コラッタ",
+                "en": "RATTATA",
+                "fr": "RATTATA",
+                "de": "RATTFRATZ",
+                "es": "RATTATA",
+                "it": "RATTATA",
+                "ko": "꼬렛",
+                "zh-Hans": "小拉达",
+                "zh-Hant": "小拉達"
+            },
+            "couleur": {
+                "normal": {
+                    "rgb": [176, 112, 176],
+                    "coordinates": [1263, 377]
+                },
+                "shiny": {
+                    "rgb": [200, 184, 120],
+                    "coordinates": [1263, 377]
+                }
+            }
+        },
+        {
+            "nom": {
+                "jp": "ポッポ",
+                "en": "PIDGEY",
+                "fr": "ROUCOOL",
+                "de": "TAUBSI",
+                "es": "PIDGEY",
+                "it": "PIDGEY",
+                "ko": "구구",
+                "zh-Hans": "波波",
+                "zh-Hant": "波波"
+            },
+            "couleur": {
+                "normal": {
+                    "rgb": [177, 105, 65],
+                    "coordinates": [1296, 357]
+                },
+                "shiny": {
+                    "rgb": [196, 188, 0],
+                    "coordinates": [1296, 357]
+                }
+            }
+        },
+        {
+            "nom": {
+                "jp": "デオキシス",
+                "en": "DEOXYS",
+                "fr": "DEOXYS",
+                "de": "DEOXYS",
+                "es": "DEOXYS",
+                "it": "DEOXYS",
+                "ko": "디오키시스",
+                "zh-Hans": "代欧奇希斯",
+                "zh-Hant": "代歐奇希斯"
+            },
+            "couleur": {
+                "normal": {
+                    "rgb": [248, 128, 72],
+                    "coordinates": [1336, 180]
+                },
+                "shiny": {
+                    "rgb": [248, 216, 72],
+                    "coordinates": [1336, 180]
+                }
+            }
+        }
+    ]
+}
